@@ -3,26 +3,182 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://viktorbihacker.netlify.com/post/chapter-6/</loc>
+    <lastmod>2019-11-04T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://viktorbihacker.netlify.com/</loc>
-    <lastmod>2019-11-30T17:24:35+01:00</lastmod>
+    <lastmod>2019-11-04T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://viktorbihacker.netlify.com/posts/</loc>
-    <lastmod>2019-11-30T17:24:35+01:00</lastmod>
+    <loc>https://viktorbihacker.netlify.com/tags/codecool/</loc>
+    <lastmod>2019-11-04T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://viktorbihacker.netlify.com/posts/my-first-post/</loc>
-    <lastmod>2019-11-30T17:24:35+01:00</lastmod>
+    <loc>https://viktorbihacker.netlify.com/tags/jobhunt/</loc>
+    <lastmod>2019-11-04T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://viktorbihacker.netlify.com/categories/</loc>
+    <loc>https://viktorbihacker.netlify.com/tags/own-project/</loc>
+    <lastmod>2019-11-04T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://viktorbihacker.netlify.com/tags/</loc>
+    <lastmod>2019-11-04T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://viktorbihacker.netlify.com/tags/advanced/</loc>
+    <lastmod>2019-09-09T11:15:58-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://viktorbihacker.netlify.com/post/chapter-5/</loc>
+    <lastmod>2019-09-09T11:15:58-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://viktorbihacker.netlify.com/tags/java/</loc>
+    <lastmod>2019-09-09T11:15:58-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://viktorbihacker.netlify.com/tags/react/</loc>
+    <lastmod>2019-09-09T11:15:58-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://viktorbihacker.netlify.com/post/chapter-4/</loc>
+    <lastmod>2019-06-03T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://viktorbihacker.netlify.com/tags/oop/</loc>
+    <lastmod>2019-06-03T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://viktorbihacker.netlify.com/tags/javascript/</loc>
+    <lastmod>2019-03-11T11:13:32-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://viktorbihacker.netlify.com/tags/python/</loc>
+    <lastmod>2019-03-11T11:13:32-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://viktorbihacker.netlify.com/tags/sql/</loc>
+    <lastmod>2019-03-11T11:13:32-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://viktorbihacker.netlify.com/tags/web/</loc>
+    <lastmod>2019-03-11T11:13:32-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://viktorbihacker.netlify.com/post/chapter-3/</loc>
+    <lastmod>2019-03-11T11:13:32-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://viktorbihacker.netlify.com/tags/progbasics/</loc>
+    <lastmod>2019-01-04T04:19:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://viktorbihacker.netlify.com/post/chapter-2/</loc>
+    <lastmod>2019-01-04T04:19:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://viktorbihacker.netlify.com/tags/programming/</loc>
+    <lastmod>2019-01-04T04:19:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://viktorbihacker.netlify.com/post/chapter-1/</loc>
+    <lastmod>2018-12-10T04:19:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://viktorbihacker.netlify.com/tags/interview/</loc>
+    <lastmod>2018-12-10T04:19:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://viktorbihacker.netlify.com/post/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://viktorbihacker.netlify.com/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://viktorbihacker.netlify.com/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://viktorbihacker.netlify.com/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>

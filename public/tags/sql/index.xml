@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL on Bihacker Viktor</title>
+    <link>https://viktorbihacker.netlify.com/tags/sql/</link>
+    <description>Recent content in SQL on Bihacker Viktor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2019 11:13:32 -0400</lastBuildDate>
+    
+	<atom:link href="https://viktorbihacker.netlify.com/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Web and SQL with Python</title>
+      <link>https://viktorbihacker.netlify.com/post/chapter-3/</link>
+      <pubDate>Mon, 11 Mar 2019 11:13:32 -0400</pubDate>
+      
+      <guid>https://viktorbihacker.netlify.com/post/chapter-3/</guid>
+      <description>The second module of Codecool&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

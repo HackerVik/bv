@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Progbasics on Bihacker Viktor</title>
+    <link>https://viktorbihacker.netlify.com/tags/progbasics/</link>
+    <description>Recent content in Progbasics on Bihacker Viktor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Jan 2019 04:19:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://viktorbihacker.netlify.com/tags/progbasics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Progbasics</title>
+      <link>https://viktorbihacker.netlify.com/post/chapter-2/</link>
+      <pubDate>Fri, 04 Jan 2019 04:19:59 -0400</pubDate>
+      
+      <guid>https://viktorbihacker.netlify.com/post/chapter-2/</guid>
+      <description>The first module is all about the basics.</description>
+    </item>
+    
+  </channel>
+</rss>

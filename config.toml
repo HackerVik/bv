@@ -17,18 +17,18 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
-  description = "The last theme you'll ever need. Maybe."
+  favicon = "/images/favicon.ico"
+  description = "Junior Sofware Developer"
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  twitter = ""
   instagram = ""
   youtube = ""
-  github = ""
+  github = "https://github.com/HackerVik"
   gitlab = ""
-  linkedin = ""
+  linkedin = "https://www.linkedin.com/in/viktor-bihacker-00a2b3196/"
   mastodon = ""
   slack = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
-  recent_posts_number = 2
+  featured_image = "/images/screen.jpg"
+  recent_posts_number = 3

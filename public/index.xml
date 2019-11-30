@@ -6,18 +6,73 @@
     <description>Recent content on Bihacker Viktor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Nov 2019 17:24:35 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2019 11:25:05 -0400</lastBuildDate>
     
 	<atom:link href="https://viktorbihacker.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>What is Lorem Ipsum?</title>
-      <link>https://viktorbihacker.netlify.com/posts/my-first-post/</link>
-      <pubDate>Sat, 30 Nov 2019 17:24:35 +0100</pubDate>
+      <title>Advanced - JobHunt</title>
+      <link>https://viktorbihacker.netlify.com/post/chapter-6/</link>
+      <pubDate>Mon, 04 Nov 2019 11:25:05 -0400</pubDate>
       
-      <guid>https://viktorbihacker.netlify.com/posts/my-first-post/</guid>
-      <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
+      <guid>https://viktorbihacker.netlify.com/post/chapter-6/</guid>
+      <description>The last module of Codecool&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Advanced - Java Enterprise</title>
+      <link>https://viktorbihacker.netlify.com/post/chapter-5/</link>
+      <pubDate>Mon, 09 Sep 2019 11:15:58 -0400</pubDate>
+      
+      <guid>https://viktorbihacker.netlify.com/post/chapter-5/</guid>
+      <description>The fourth, final module of Codecool&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Java OOP</title>
+      <link>https://viktorbihacker.netlify.com/post/chapter-4/</link>
+      <pubDate>Mon, 03 Jun 2019 11:14:48 -0400</pubDate>
+      
+      <guid>https://viktorbihacker.netlify.com/post/chapter-4/</guid>
+      <description>The third module of Codecool&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Web and SQL with Python</title>
+      <link>https://viktorbihacker.netlify.com/post/chapter-3/</link>
+      <pubDate>Mon, 11 Mar 2019 11:13:32 -0400</pubDate>
+      
+      <guid>https://viktorbihacker.netlify.com/post/chapter-3/</guid>
+      <description>The second module of Codecool&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Progbasics</title>
+      <link>https://viktorbihacker.netlify.com/post/chapter-2/</link>
+      <pubDate>Fri, 04 Jan 2019 04:19:59 -0400</pubDate>
+      
+      <guid>https://viktorbihacker.netlify.com/post/chapter-2/</guid>
+      <description>The first module is all about the basics.</description>
+    </item>
+    
+    <item>
+      <title>Codecool interview</title>
+      <link>https://viktorbihacker.netlify.com/post/chapter-1/</link>
+      <pubDate>Mon, 10 Dec 2018 04:19:59 -0400</pubDate>
+      
+      <guid>https://viktorbihacker.netlify.com/post/chapter-1/</guid>
+      <description>Codecool interview&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://viktorbihacker.netlify.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://viktorbihacker.netlify.com/contact/</guid>
+      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
+Your Name Email Address An email address is required.  Message   </description>
     </item>
     
   </channel>

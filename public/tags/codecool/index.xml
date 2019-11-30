@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codecool on Bihacker Viktor</title>
+    <link>https://viktorbihacker.netlify.com/tags/codecool/</link>
+    <description>Recent content in Codecool on Bihacker Viktor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Nov 2019 11:25:05 -0400</lastBuildDate>
+    
+	<atom:link href="https://viktorbihacker.netlify.com/tags/codecool/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Advanced - JobHunt</title>
+      <link>https://viktorbihacker.netlify.com/post/chapter-6/</link>
+      <pubDate>Mon, 04 Nov 2019 11:25:05 -0400</pubDate>
+      
+      <guid>https://viktorbihacker.netlify.com/post/chapter-6/</guid>
+      <description>The last module of Codecool&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Java OOP</title>
+      <link>https://viktorbihacker.netlify.com/post/chapter-4/</link>
+      <pubDate>Mon, 03 Jun 2019 11:14:48 -0400</pubDate>
+      
+      <guid>https://viktorbihacker.netlify.com/post/chapter-4/</guid>
+      <description>The third module of Codecool&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Web and SQL with Python</title>
+      <link>https://viktorbihacker.netlify.com/post/chapter-3/</link>
+      <pubDate>Mon, 11 Mar 2019 11:13:32 -0400</pubDate>
+      
+      <guid>https://viktorbihacker.netlify.com/post/chapter-3/</guid>
+      <description>The second module of Codecool&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Progbasics</title>
+      <link>https://viktorbihacker.netlify.com/post/chapter-2/</link>
+      <pubDate>Fri, 04 Jan 2019 04:19:59 -0400</pubDate>
+      
+      <guid>https://viktorbihacker.netlify.com/post/chapter-2/</guid>
+      <description>The first module is all about the basics.</description>
+    </item>
+    
+    <item>
+      <title>Codecool interview</title>
+      <link>https://viktorbihacker.netlify.com/post/chapter-1/</link>
+      <pubDate>Mon, 10 Dec 2018 04:19:59 -0400</pubDate>
+      
+      <guid>https://viktorbihacker.netlify.com/post/chapter-1/</guid>
+      <description>Codecool interview&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
